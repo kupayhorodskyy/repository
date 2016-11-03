@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+
+::selection { background: beige; }
+::-moz-selection { background: beige; }
+
+body {
+	font-family: "Varela Round", "Ebrima", "Calibri";
+	padding-top: 50px;
+	overflow-x: hidden;
+}
+
+h1 {
+	font-weight: bold;
+	margin-bottom: 15px !important;
+}
+
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
